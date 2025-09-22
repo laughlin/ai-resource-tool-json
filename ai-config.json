@@ -1,0 +1,34 @@
+{
+  "platforms": [
+    {
+      "name": "ChatGPT",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png",
+      "platformUrl": "https://chat.openai.com/",
+      "links": {
+        "Getting Started": "https://platform.openai.com/docs/overview",
+        "Resources": "https://help.openai.com/",
+        "AI Repository": "https://github.com/openai"
+      }
+    },
+    {
+      "name": "Copilot",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Microsoft_Copilot_Icon.svg/1200px-Microsoft_Copilot_Icon.svg.png",
+      "platformUrl": "https://copilot.microsoft.com/",
+      "links": {
+        "Getting Started": "https://learn.microsoft.com/en-us/copilot/",
+        "Resources": "https://aka.ms/CopilotResources",
+        "AI Repository": "https://github.com/microsoft"
+      }
+    },
+    {
+      "name": "Gemini",
+      "icon": "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png",
+      "platformUrl": "https://gemini.google.com/",
+      "links": {
+        "Getting Started": "https://ai.google.dev/gemini-api/docs",
+        "Resources": "https://support.google.com/gemini",
+        "AI Repository": "https://github.com/google"
+      }
+    }
+  ]
+}

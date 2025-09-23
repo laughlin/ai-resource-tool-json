@@ -1,7 +1,7 @@
 {
   "platforms": [
     {
-      "name": "ChatGPT - Hi Ryan",
+      "name": "ChatGPT - Hi Ben",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png",
       "platformUrl": "https://chat.openai.com/",
       "links": {
@@ -33,4 +33,5 @@
   ]
 
 }
+
 
